@@ -47,8 +47,8 @@ The notebook produces:
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
-cd <your-repository-folder>
+git clone <github.com/sinhaakshita/Customer_Segmentation>
+cd <Customer_Segmentation>
 ```
 
 ### 2. Install dependencies
